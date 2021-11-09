@@ -18,6 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Front"
         android:usesCleartextTraffic="true">
+        <activity android:name=".signin"></activity>
         <activity
             android:name=".Report"
             android:exported="true" />
