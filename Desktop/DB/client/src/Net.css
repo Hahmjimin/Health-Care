@@ -1,0 +1,14 @@
+.Netdiv{
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
+  
+  .Netimg{
+    background-size: cover;
+    width: 60%;
+  }

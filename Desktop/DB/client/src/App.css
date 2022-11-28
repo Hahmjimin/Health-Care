@@ -1,0 +1,138 @@
+.title{
+  text-align: center;
+  font-size: 30px;
+}
+
+.Netflix{
+  color: red;
+  font-weight: bolder;
+}
+
+.Disney{
+  color:blue;
+  font-weight: bolder;
+}
+
+.first{
+  padding-top: 50px;
+  padding-bottom: 100px;
+  font-size: larger;
+}
+
+h2{
+  font-weight: lighter;
+  text-align: center;
+  line-height: 50px;
+}
+
+.Netdiv{
+  align-items: center;
+  background-color: black;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.Netimg{
+  background-size: cover;
+  width: 60%;
+}
+
+.Netexp{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: larger;
+}
+
+table{
+  width: 60%;
+  margin:auto;
+  text-align: center;
+  font-weight: lighter;
+  font-size:30px;
+}
+
+tr.red{
+  background-color: red;
+  color:#ffffff;  
+}
+
+.nextpage{
+  display: flex;
+  padding-top: 150px;
+  margin-bottom: 250px;
+}
+
+.netbtn{
+  margin:auto;
+  font-size: 40px;
+  background-color: #ffffff;
+  border-color: red;
+  border-radius: 12px;
+}
+
+.netbtn:hover{
+  background-color: red;
+  border-color: red;
+  color:white;
+  border-radius: 12px;
+  cursor:pointer;
+}
+
+.disdiv{
+  display: fixed;
+  align-items: center;
+  background-color: #000080;
+  width: 100%;
+  height: 1500px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.disimgdiv{
+  align-items: center;
+  background : linear-gradient(to top , #00ffff, #000080);
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.disimg{
+  background-size: cover;
+  width: 30%;
+}
+
+.disexp{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: larger;
+}
+
+tr.navy{
+  background-color: #000080;
+  color:#ffffff;  
+}
+
+tr.border{
+  font-weight: bolder;
+}
+
+.disbtn{
+  margin:auto;
+  font-size: 40px;
+  background-color: #ffffff;
+  border-color: #000080;
+  border-radius: 12px;
+}
+
+.disbtn:hover{
+  background-color: #000080;
+  border-color: #000080;
+  color:white;
+  border-radius: 12px;
+  cursor:pointer;
+}

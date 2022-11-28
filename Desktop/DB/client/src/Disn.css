@@ -1,0 +1,13 @@
+.disimgdiv{
+    align-items: center;
+    background : linear-gradient(to top , #00ffff, #000080);
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
+  .disimg{
+    background-size: cover;
+    width: 30%;
+  }
