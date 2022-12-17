@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+.Mainscreen {  
+    height: 530px;
+    padding: 1rem;
+    color: white;
+    background: blue;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+.func1 {
+    width: 100px;
+    height: 80px;
+    float: left;
+    line-height: 25px;
+    text-align: right;
+    align-items: right;
+    margin-left: 10%;
+}
+.func2 {
+    width: 100px;
+    height: 80px;
+    float: left;
+    line-height: 25px;
+    text-align: right;
+    align-items: right;
+    margin-left: 200px;
+}
+.func3 {
+    width: 100px;
+    height: 80px;
+    float: left;
+    line-height: 25px;
+    text-align: right;
+    align-items: right;
+    margin-left: 300px;
+}
+.func4 {
+    width: 100px;
+    height: 80px;
+    float: left;
+    line-height: 25px;
+    text-align: right;
+    align-items: right;
+    margin-left: 230px;
+}

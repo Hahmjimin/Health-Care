@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  form {
+      align-items: center;
+  }  
+    section {
+       margin-top: 70px;
+       color: #4169E1;
+      font-weight: bold;
+      text-align: center;
+      font-size: 70px;
+      justify-content : center;
+    }
+    
+    input[type=text] {
+      margin-top: 30px;
+       width: 430px;
+       height: 50px;
+       border-radius: 10px;
+      font-size: 20px;
+      border-color:#4169E1;
+      outline: none;
+    }
+    
+    .ask{
+      width: 205px;
+      height: 50px;
+      border-radius: 10px;
+      font-size: 16px;
+      background-color: white;
+      box-shadow: none;
+      border: 0;
+      outline: 0;
+      color: gray;
+      cursor: pointer;
+    }
+    
+    .log{
+      width: 200px;
+       height: 50px;
+      border-radius: 10px;
+      font-size: 16px;
+      background-color: white;
+      box-shadow: none;
+      border: 0;
+      outline: 0;
+      color: #4169E1;
+      cursor: pointer;
+    }
+    
+    .login{
+      width: 430px;
+       height: 68px;
+      border-radius: 10px;
+      font-size: 25px;
+      background-color: #4169E1;
+      box-shadow: none;
+      padding: 0;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }

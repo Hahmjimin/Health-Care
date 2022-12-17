@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  header {
+      text-align: center;
+      justify-content : center;
+    }
+    
+    section {
+       margin-top: 90px;
+       color: #4169E1;
+      font-weight: bold;
+      text-align: center;
+      font-size: 70px;
+      justify-content : center;
+    }
+    
+    input[type=text] {
+      margin-top: 40px;
+       width: 430px;
+       height: 68px;
+       border-radius: 10px;
+      font-size: 20px;
+      border-color:#4169E1;
+      outline: none;
+    }
+    
+    .back{
+      width: 200px;
+       height: 50px;
+      border-radius: 10px;
+      font-size: 18px;
+      background-color: white;
+      box-shadow: none;
+      border: 0;
+      outline: 0;
+      color: gray;
+      cursor: pointer;
+    }
+    
+    .new{
+      width: 200px;
+       height: 50px;
+      border-radius: 10px;
+      font-size: 18px;
+      background-color: white;
+      box-shadow: none;
+      border: 0;
+      outline: 0;
+      color: gray;
+      cursor: pointer;
+    }
+    
+    .login{
+      width: 430px;
+       height: 68px;
+      border-radius: 10px;
+      font-size: 25px;
+      background-color: #4169E1;
+      box-shadow: none;
+      padding: 0;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }

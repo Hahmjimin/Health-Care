@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+footer {  
+    height: 200px;
+    width: 100%;
+    padding: 1rem;
+    color: white;
+    background: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+}
+
+.link {
+    box-shadow: none;
+}

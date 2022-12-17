@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+input {  
+    height: 90px;
+    padding: 100rem;
+    background: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

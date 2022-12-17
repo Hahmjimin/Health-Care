@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 90px;
+  padding: 1rem;
+  color: white;
+  background: black;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.center-li1{
+    align-items: center;
+    float: left;
+    line-height: 3.5rem;
+    text-align: center;
+    position: absolute;
+    left: 30%;
+    font-size: 17px;
+  }
+  .center-li1:hover {
+    color: #495057;
+}
+  .center-li2{
+    align-items: center;
+    float: left;
+    line-height: 3.5rem;
+    width: 70px;
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    font-size: 17px;
+  }
+  .center-li2:hover {
+    color: #495057;
+}
+  .center-li3{
+    align-items: center;
+    float: left;
+    line-height: 3.5rem;
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    font-size: 17px;
+  }
+  .center-li3:hover {
+    color: #495057;
+}
+  .center-li4{
+    align-items: center;
+    float: left;
+    line-height: 3.5rem;
+    text-align: center;
+    position: absolute;
+    left: 60%;
+    font-size: 17px;
+  }
+  .center-li4:hover {
+    color: #495057;
+}
+  .right-li{
+    float: left;
+    line-height: 3.5rem;
+    width: 80px;
+    text-align: right;
+    align-items: right;
+  }
+
+  .link {
+    color: #fff;
+  }
+  .link:hover {
+    color: #495057;
+}
+
+.link2 {
+  color: black;
+}
+
+
+
+
+.logo {
+    position: fixed;
+    top: 3px;
+    left: 0px;
+    color: white;
+    vertical-align: middle;
+    line-height: 40px;
+    font-size: 40px;
+    padding: 22px 0px 0px 30px;
+    font-weight: 600;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.center-li1 {
+    position: fixed;
+    line-height: 40px;
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+    top: 26px;
+}
+
+.center-li2 {
+    position: fixed;
+    line-height: 40px;
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+    top: 26px;
+    margin-left: 150px;
+}
+
+.center-li3 {
+    position: fixed;
+    line-height: 40px;
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+    top: 26px;
+    margin-left: 1000px;
+}
+
+.center-li4 {
+    position: fixed;
+    line-height: 40px;
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+    top: 26px;
+    margin-left: 1100px;
+}
